@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/shady/term7/Codesign/EX/booth_multiplier/LFSR/LFSR.srcs/sources_1/new/lfsr.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module lfsr
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/shady/term7/Codesign/EX/booth_multiplier/LFSR/LFSR.srcs/sim_1/new/test_lfsr.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module test_lfsr
