@@ -93,13 +93,13 @@ The SystemVerilog testbench **drives the top module**, captures the Booth multip
 
 Waveform captures from simulations:
 
-![Booth core](waves/booth_core.png)
+![Booth core](./booth_core.png)
 *Internal signals of the Booth multiplier during a sample transaction.*
 
-![LFSR sequence](waves/lfsr_sequence.png)
+![LFSR sequence](./lfsr_sequence.png)
 *LFSR bit evolution showing the expected pseudo-random sequence.*
 
-![Top differential check](waves/top_diffcheck.png)
+![Top differential check](./top_diffcheck.png)
 *Top-level signals and the differential check against the `*` operator.*
 
 
