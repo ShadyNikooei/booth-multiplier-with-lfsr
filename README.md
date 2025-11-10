@@ -91,13 +91,17 @@ The SystemVerilog testbench **drives the top module**, captures the Booth multip
 
 ## Waveforms
 
-Waveform captures from simulations :
+Waveform captures from simulations:
 
-* `*\booth_core.png` — Internal signals of the Booth multiplier during a sample transaction.
-* `*\lfsr_sequence.png` — LFSR bit evolution showing the expected pseudo-random sequence.
-* `*\top_diffcheck.png` — Top-level signals and the differential check against the `*` operator.
+![Booth core](waves/booth_core.png)
+*Internal signals of the Booth multiplier during a sample transaction.*
 
-You can regenerate waveforms using your simulator’s GUI or dumping VCD/FSDB and plotting with your preferred viewer.
+![LFSR sequence](waves/lfsr_sequence.png)
+*LFSR bit evolution showing the expected pseudo-random sequence.*
+
+![Top differential check](waves/top_diffcheck.png)
+*Top-level signals and the differential check against the `*` operator.*
+
 
 ---
 
