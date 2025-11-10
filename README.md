@@ -112,4 +112,4 @@ You can regenerate waveforms using your simulator’s GUI or dumping VCD/FSDB an
 
 ---
 
-**Programmer:** Shadi Nikooei
+**Programmer:** Shady Nikooei
